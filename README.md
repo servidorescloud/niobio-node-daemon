@@ -6,7 +6,7 @@ The BRCOIN is the Brazilian national cryptocurrency, just like Bitcoin but more 
 
 You can download the binaries for Linux, MacOS, and Windows [HERE](https://github.com/niobio-cash/Downloads)
 
-## Building Niobio 
+## Building Brcoin
 
 ### On *nix and OSX
 
